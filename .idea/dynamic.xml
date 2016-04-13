@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DynamicElementsStorage">
+    <option name="containingClasses">
+      <map>
+        <entry key="android.system.Os">
+          <value>
+            <DClassElement>
+              <option name="name" value="android.system.Os" />
+              <option name="myName" value="android.system.Os" />
+              <option name="myProperties">
+                <set>
+                  <DPropertyElement>
+                    <option name="name" value="FAMILY_WINDOWS" />
+                    <option name="static" value="false" />
+                    <option name="type" value="java.lang.Object" />
+                    <option name="myType" value="java.lang.Object" />
+                    <option name="myStatic" value="false" />
+                    <option name="myName" value="FAMILY_WINDOWS" />
+                  </DPropertyElement>
+                </set>
+              </option>
+            </DClassElement>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
